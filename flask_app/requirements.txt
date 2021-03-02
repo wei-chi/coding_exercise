@@ -1,0 +1,7 @@
+Flask==1.1.2
+Flask-Migrate==2.7.0
+Flask-SQLAlchemy==2.4.4
+Flask-Testing==0.8.1
+PyMySQL==1.0.2
+python-dotenv==0.15.0
+uWSGI==2.0.19.1
